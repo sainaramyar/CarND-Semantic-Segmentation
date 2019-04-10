@@ -1,0 +1,31 @@
+Try1:
+learning rate = 0.0009
+epochs = 6
+batch_size = 16
+Loss = 0.641
+
+
+Try2:
+learning rate = 0.0009
+epochs = 15
+batch_size = 16
+loss = 0.265
+
+Try3:
+learning rate = 0.0009
+epochs = 15
+batch_size = 8
+loss = 0.165
+
+Try4:
+learning rate = 0.0004
+epochs = 25
+batch_size = 8
+loss = 0.209
+
+
+Try5:
+learning rate = 0.0005
+epochs = 30
+batch_size = 8
+loss = 0.209
